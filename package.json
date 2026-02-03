@@ -1,5 +1,5 @@
 {
-  "name": "@drabc/koishi-plugin-duel",
+  "name": "koishi-plugin-drabc-duel",
   "description": "决斗",
   "version": "1.0.0",
   "main": "lib/index.js",

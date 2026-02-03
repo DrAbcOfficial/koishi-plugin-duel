@@ -1,4 +1,4 @@
-import { Bot, Context, Schema, Session } from 'koishi'
+import { Context, Schema, Session } from 'koishi'
 
 export const name = 'duel'
 
